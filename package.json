@@ -1,0 +1,40 @@
+{
+  "name": "coffeelint-advanced-colon-assignment-spacing",
+  "version": "0.0.1",
+  "description": "Validate a spacing left and right of a colon assignment",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/levibuzolic/coffeelint-advanced-colon-assignment-spacing.git"
+  },
+  "keywords": [
+    "coffeelint",
+    "coffeelintrule",
+    "coffee-lint",
+    "newline",
+    "rule"
+  ],
+  "author": {
+    "name": "Levi Buzolic",
+    "email": "levibuzolic@gmail.com",
+    "url": "http://levibuzolic.com"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/levibuzolic/coffeelint-advanced-colon-assignment-spacing/issues"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "homepage": "https://github.com/levibuzolic/coffeelint-advanced-colon-assignment-spacing",
+  "peerDependencies": {
+    "coffeelint": "~1.3"
+  },
+  "devDependencies": {
+    "coffee-script": "~1.7.0"
+  }
+}
