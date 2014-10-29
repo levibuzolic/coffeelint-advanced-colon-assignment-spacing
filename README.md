@@ -46,7 +46,7 @@ class TestClass
 class Router
   routes:
     "/main":            "main"
-    "/dashboard/users": "dashboard
+    "/dashboard/users": "dashboard"
     "/settings":        settings
 
 ```
