@@ -1,6 +1,6 @@
 {
   "name": "coffeelint-advanced-colon-assignment-spacing",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Validate a spacing left and right of a colon assignment",
   "main": "index.coffee",
   "repository": {
@@ -35,6 +35,6 @@
     "coffeelint": "1.x"
   },
   "devDependencies": {
-    "coffee-script": "~1.7.0"
+    "coffee-script": "1.x"
   }
 }
