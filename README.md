@@ -19,7 +19,7 @@ Insert the below configuration into `coffeelint.json` that you use for linting y
 
 ```json
 "advanced_colon_assignment_spacing": {
-  "module": "advanced_colon_assignment_spacing",
+  "module": "coffeelint-advanced-colon-assignment-spacing",
   "level": "error",
   "spacing": {
     "left": {

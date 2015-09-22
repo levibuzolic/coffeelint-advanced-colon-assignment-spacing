@@ -2,7 +2,7 @@
   "name": "coffeelint-advanced-colon-assignment-spacing",
   "version": "0.0.1",
   "description": "Validate a spacing left and right of a colon assignment",
-  "main": "index.js",
+  "main": "index.coffee",
   "repository": {
     "type": "git",
     "url": "https://github.com/levibuzolic/coffeelint-advanced-colon-assignment-spacing.git"
@@ -32,7 +32,7 @@
   },
   "homepage": "https://github.com/levibuzolic/coffeelint-advanced-colon-assignment-spacing",
   "peerDependencies": {
-    "coffeelint": "~1.3"
+    "coffeelint": "1.x"
   },
   "devDependencies": {
     "coffee-script": "~1.7.0"
