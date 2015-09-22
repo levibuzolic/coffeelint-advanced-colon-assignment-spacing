@@ -1,4 +1,4 @@
-# Coffeelint - Advanced Colon Assignment Spacing [![npm version](https://badge.fury.io/js/coffeelint-advanced-colon-assignment-spacing.svg)](https://www.npmjs.com/package/coffeelint-advanced-colon-assignment-spacing)
+# Coffeelint - Advanced Colon Assignment Spacing [![npm version](https://badge.fury.io/js/coffeelint-advanced-colon-assignment-spacing.svg)](https://www.npmjs.com/package/coffeelint-advanced-colon-assignment-spacing) [![devDependency Status](https://david-dm.org/levibuzolic/coffeelint-advanced-colon-assignment-spacing/dev-status.svg)](https://david-dm.org/levibuzolic/coffeelint-advanced-colon-assignment-spacing#info=devDependencies) [![peerDependency Status](https://david-dm.org/levibuzolic/coffeelint-advanced-colon-assignment-spacing/peer-status.svg)](https://david-dm.org/levibuzolic/coffeelint-advanced-colon-assignment-spacing#info=peerDependencies)
 
 > Validate minimum and maximum spacing left and right of a colon assignment.
 
